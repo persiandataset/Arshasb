@@ -1,0 +1,2 @@
+# Arshasb
+Persian OCR dataset
