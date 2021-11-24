@@ -7,8 +7,8 @@ For each page in this dataset, a subfolder with the same name as the page has be
 
 Each subfolder contains 4 files, for example in subfolder 00001 we have:<\br>
 
-  1.page_00001.png [ Page image ] <\br>
-  2.label_00001.xlsx [ The exact location of each word on the page ]<\br>
-  3.fulltext_00001.txt [ Full text in page ]<\br>
-  4.line_00001.xlsx [ The exact location of each line on the page ]<\br>
+  1.page_00001.png [ Page image ] </br>
+  2.label_00001.xlsx [ The exact location of each word on the page ]</br>
+  3.fulltext_00001.txt [ Full text in page ]</br>
+  4.line_00001.xlsx [ The exact location of each line on the page ]</br>
     
