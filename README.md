@@ -16,4 +16,5 @@ Introducing label_xxxx.xlsx columns:</br>
     1.word</br>
     2.line [show index-line word]</br>
     3.point(1-2-3-4) [show location of each word]</br>
+    <img src="https://github.com/persiandataset/Arshasb/blob/main/fig1.png"></img>
     
