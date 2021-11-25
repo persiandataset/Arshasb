@@ -12,7 +12,7 @@ You can download Arshasb dataset with 7k pages in this <a href="https://drive.go
 Also, if you want a 33,000-page dataset, contact me [ hubare.ra[at]gmail.com ].
 
 # Detail
-The number of unique words with the removal of numbers and punctuation is 97498. In the 7k version, this number is reduced to xxx unique words.
+The number of unique words with the removal of numbers and punctuation is 97498. In the 7k version, this number is reduced to xxx unique words.</br>
 For each page in this dataset, a subfolder with the same name as the page has been created.
 Each subfolder contains 4 files, for example in subfolder 00001 we have:
 
@@ -26,4 +26,23 @@ Each subfolder contains 4 files, for example in subfolder 00001 we have:
     2.line [show index-line word]
     3.point(1-2-3-4) [show location of each word]
 <img src="https://github.com/persiandataset/Arshasb/blob/main/fig1.png"></img>
+    
+# Sample code for read label_xxxx.xlsx
+```python
+
+label = pd.read_excel('Arshasb_7k/00001/label_00001.xlsx')
+data = []
+for j in range(len(label)):
+    #read word
+    word = label['word'][j]
+    #read index_line word
+    index_line = label['line'][j]
+    #read points
+    point1 = eval(label['point1'][j])
+    point2 = eval(label['point2'][j])
+    point3 = eval(label['point3'][j])
+    point4 = eval(label['point4'][j])
+    data.append({'number':j , 'word':word, 'line':index_line ,'point1':point1,'point2':point2,'point3':point3,'point4':point4})
+```
+    
     
