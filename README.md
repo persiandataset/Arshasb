@@ -3,7 +3,7 @@ Persian OCR dataset
 
 In this repository, Arshaseb (ancient Iranian name) Persian OCR dataset  is located.
 This dataset contains 33,000 pages of Persian text, of which 7,000 pages have been published for free.<br>
-In this datasets, the position of each word is precisely labeled.look at this sample:</br>
+In this datasets, the position of each word is precisely labeled. Look at this sample:</br>
 <img src="https://github.com/persiandataset/Arshasb/blob/main/page_08734.png"></img>
     
 # Download
@@ -44,5 +44,5 @@ for j in range(len(label)):
     point4 = eval(label['point4'][j])
     data.append({'number':j , 'word':word, 'line':index_line ,'point1':point1,'point2':point2,'point3':point3,'point4':point4})
 ```
-    
-    
+# Donation
+I try to publish free Persian datasets in github. Your financial support will encourage me. Donation link : https://www.patreon.com/persiandataset
