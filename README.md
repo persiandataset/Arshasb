@@ -1,7 +1,7 @@
 # Arshasb
 Persian OCR dataset
 
-In this repository, Arshaseb (ancient Iranian name) Persian OCR dataset  is located.
+In this repository, Arshaseb (ancient Iranian name[ اَرشاسب ]) Persian OCR dataset  is located.
 This dataset contains 33,000 pages of Persian text, of which 7,000 pages have been published for free.<br>
 In this datasets, the position of each word is precisely labeled. Look at this sample:</br>
 <img src="https://github.com/persiandataset/Arshasb/blob/main/page_08734.png"></img>
