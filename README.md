@@ -18,7 +18,7 @@ The number of unique words with the removal of numbers and punctuation is 97498.
 The content of this dataset includes public and news texts.</br>
 For each page in this dataset, a subfolder with the same name as the page has been created.
 Each subfolder contains 4 files, for example in subfolder 00001 we have:
-
+This database is made of Far_ketab font. [<a href="https://www.fontyab.com/3247/far_ketab.html">website</a>]</br>
     1.page_00001.png [ Page image ]
     2.label_00001.xlsx [ The exact location of each word on the page ]
     3.fulltext_00001.txt [ Full text in page ]
