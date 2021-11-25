@@ -13,6 +13,7 @@ Also, if you want a 33,000-page dataset, contact me [ hubare.ra[at]gmail.com ].
 
 # Detail
 The number of unique words with the removal of numbers and punctuation is 97498. In the 7k version, this number is reduced to xxx unique words.</br>
+The content of this dataset includes public and news texts.</br>
 For each page in this dataset, a subfolder with the same name as the page has been created.
 Each subfolder contains 4 files, for example in subfolder 00001 we have:
 
