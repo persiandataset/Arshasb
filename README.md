@@ -8,7 +8,7 @@ In this datasets, the position of each word is precisely labeled.look at this sa
     
 # Download
 There are 100 samples of this dataset in Arshasb_samples.tar.gz </br>
-You can download Arshasb dataset with 7k pages in this <a href="https://drive.google.com/file/d/1G9JEZY9MSzaND8ynnFodIXQvMMM1_6J3/view?usp=sharing">link</a> (~700M)</br>
+You can download Arshasb dataset with 7k pages in this <a href="https://drive.google.com/file/d/1G9JEZY9MSzaND8ynnFodIXQvMMM1_6J3/view?usp=sharing">link</a> (~730M)</br>
 Also, if you want a 33,000-page dataset, contact me [ hubare.ra[at]gmail.com ].
 
 # Detail
