@@ -16,7 +16,7 @@ Persian OCR dataset
 # Detail
 * The number of unique words with the removal of numbers and punctuation is 97498. In the 7k version, this number is reduced to 40911 unique words.</br>
 * The content of this dataset includes public and news texts.</br>
-* This dataset use Far_ketab font. [<a href="https://www.fontyab.com/3247/far_ketab.html">website</a>]</br>
+* This dataset uses Far_ketab font. [<a href="https://www.fontyab.com/3247/far_ketab.html">website</a>]</br>
 
 * For each page in this dataset, a subfolder with the same name as the page has been created.
 * Each subfolder contains 4 files, for example in subfolder 00001 we have:</br>
