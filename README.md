@@ -35,7 +35,7 @@ Persian OCR dataset
     
 # Sample code for read label_xxxx.xlsx
 ```python
-
+import pandas as pd
 label = pd.read_excel('Arshasb_7k/00001/label_00001.xlsx')
 data = []
 for j in range(len(label)):
