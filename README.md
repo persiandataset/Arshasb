@@ -5,7 +5,7 @@ Persian OCR dataset
 * This dataset contains 33,000 pages of Persian text, of which 7,000 pages have been published for free.<br>
 * The words that are placed next to each other are interdependent and represent one subject. <br>
 * More precisely, the placement of the words is meaningful, and this helps to use NLP models in the OCR process.<br>
-* In this datasets, the position of each word is precisely labeled. Look at this sample:</br>
+* In this dataset, the position of each word is precisely labeled. Look at this sample:</br>
 <img src="https://github.com/persiandataset/Arshasb/blob/main/page_08734.png"></img>
     
 # Download
