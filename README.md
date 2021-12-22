@@ -51,5 +51,5 @@ for j in range(len(label)):
     data.append({'number':j , 'word':word, 'line':index_line ,'point1':point1,'point2':point2,'point3':point3,'point4':point4})
 ```
 # Donation
-I try to publish free Persian datasets in github. Your financial support will encourage me. Donation link : https://www.patreon.com/persiandataset
+I try to publish free Persian datasets in github. Your financial support will encourage me. Donation link : https://www.patreon.com/persiandataset<br>
 If you are in Iran, contact me by hubare.ra[at]gmail.com for donation.
