@@ -52,3 +52,4 @@ for j in range(len(label)):
 ```
 # Donation
 I try to publish free Persian datasets in github. Your financial support will encourage me. Donation link : https://www.patreon.com/persiandataset
+If you are in Iran, contact me by hubare.ra[at]gmail.com for donation.
