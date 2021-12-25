@@ -11,7 +11,7 @@ Persian OCR dataset
 # Download
 * There are 100 samples of this dataset in Arshasb_samples.tar.gz </br>
 * You can download Arshasb dataset with 7k pages in this <a href="https://drive.google.com/file/d/1G9JEZY9MSzaND8ynnFodIXQvMMM1_6J3/view?usp=sharing">link</a> (~730M)</br>
-* Also, if you want a 33,000-page dataset, contact me by hubare.ra[at]gmail.com .
+* Also, if you want a 33,000-page dataset, contact me by hubare.ra[at]gmail.com .[not free]
 
 # Detail
 * The number of unique words with the removal of numbers and punctuation is 97498. In the 7k version, this number is reduced to 40911 unique words.</br>
