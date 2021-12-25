@@ -33,7 +33,7 @@ Persian OCR dataset
 
 <img src="https://github.com/persiandataset/Arshasb/blob/main/fig1.png"></img>
     
-# Sample code for read label_xxxx.xlsx
+# Sample code for reading label_xxxx.xlsx
 ```python
 import pandas as pd
 label = pd.read_excel('Arshasb_7k/00001/label_00001.xlsx')
