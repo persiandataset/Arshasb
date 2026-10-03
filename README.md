@@ -50,11 +50,11 @@ for j in range(len(label)):
     point4 = eval(label['point4'][j])
     data.append({'number':j , 'word':word, 'line':index_line ,'point1':point1,'point2':point2,'point3':point3,'point4':point4})
 
+```
 # Arabic Dataset
 Also, I have prepared an OCR dataset in the same style in Arabic, with 6 fonts and one million pages. You can see it here:
 https://github.com/craneset/ocr-data
 
-```
 # Donation
 I try to publish free Persian datasets in github. Your financial support will encourage me.<br> Donation link :
 https://www.coffeete.ir/persiandataset<br>
